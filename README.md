@@ -1,2 +1,2 @@
-# platon-ketties
-platon-ketties
+# platon-kitties
+platon-kitties
